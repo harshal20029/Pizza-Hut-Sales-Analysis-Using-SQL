@@ -25,3 +25,12 @@ This project involves analyzing Pizza Hut's sales data using **MySQL** to extrac
 - **CSV Dataset** – used as the base for SQL queries
 
 ---
+
+## 🗂️ Project Structure
+
+- `pizzas.csv` – Pizza information (names, categories, etc.)
+- `orders.csv` – Order details with timestamps
+- `order_details.csv` – Line-level data for each order (pizzas, quantity)
+- `pizza_types.csv` – Contains pizza categories, ingredients, and prices
+- `pizza_hut_analysis.sql` – SQL file with all queries
+- `README.md` – Documentation and explanation of the project
