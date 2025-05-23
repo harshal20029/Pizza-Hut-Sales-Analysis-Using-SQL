@@ -26,6 +26,29 @@ This project involves analyzing Pizza Hut's sales data using **MySQL** to extrac
 
 ---
 
+## 🔍 Key Analyses Performed
+
+### 📈 1. Sales Performance Analysis
+- Best-selling pizzas by quantity and revenue
+- Peak sales hours for staffing and resource planning
+- Daily revenue trends for tracking performance
+- Pizza size preferences to guide product strategy
+
+### 💰 2. Revenue & Profit Optimization
+- Monthly revenue trends for seasonal planning
+- Identification of low-selling pizzas for cost control
+- Average Order Value (AOV) to guide pricing
+
+### 📦 3. Inventory & Ingredient Optimization
+- Most frequently used ingredients
+- Forecasting ingredient shortages to prevent stockouts
+
+### 📊 4. Customer & Marketing Insights
+- Commonly ordered pizza combinations to create bundled offers
+- Most popular pizza categories for targeted promotions
+
+---
+
 ## 🗂️ Project Structure
 
 - `pizzas.csv` – Pizza information (names, categories, etc.)
